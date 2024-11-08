@@ -4,7 +4,7 @@
                 <a href="?">Kodu</a>
             </li>
             <li>
-                <a href="?leht=proov.php">Tekstifunktsioonid</a>
+                <a href="?leht=proov_php.php">Tekstifunktsioonid</a>
             </li>
             <li>
                 <a href="?leht=mõistatud.php">Mõistatud</a>

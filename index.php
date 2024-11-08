@@ -9,21 +9,21 @@
 <header>
     <h1>PHP  tuunitööd</h1>
 </header>
-<?php
-include("nav.php");
-?>
-<section>
     <?php
-    if(isset($_GET["Lleht"])) {
-        include('kontent/'.$_GET["Lleht"]);
+    include("nav.php");
+    ?>
+<section>
+    <h1>PHP  tuunitööd</h1>
+    <?php
+    if(isset($_GET["leht"])) {
+        include('kontent/'.$_GET["leht"]);
     } else {
-        echo "Tere tulemast!";
+        include('kontent/kodu.php');
     }
     ?>
 </section>
-<?php
-echo "David Myrseth &copy;";
-echo date("Y");
-?>
+    <?php
+    include("footer.php");
+    ?>
 </body>
 </html>
