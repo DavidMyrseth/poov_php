@@ -1,0 +1,70 @@
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    background-color: #111;
+}
+
+footer {
+    bottom: 0;
+    background-color: #333;
+    color: White;
+    height: 2em;
+    left: 0;
+    padding: 1%;
+    position: fixed;
+    front-size: small;
+    width: 100%;
+}
+header{}
+div#kodu{
+    padding: 2%;
+    border: solid 1pt grey;
+}
+
+div#kuupaev{
+    width:50%;
+    padding: 2%;
+    border: solid 1pt grey;
+}
+
+div#koolivaheag{
+    width:50%;
+    padding: 2%;
+    border: solid 1pt grey;
+}
+
+div#MinuSünnipäevani{
+    width:50%;
+    padding: 2%;
+    border: solid 1pt grey;
+}
+
+div#vanus{
+    width:50%;
+    padding: 2%;
+    border: solid 1pt grey;
+}
+
+div#gogo{
+    width:50%;
+    padding: 2%;
+    border: solid 1pt grey;
+}

@@ -6,9 +6,11 @@
     <link rel="stylesheet" href="style/stylesheet.css"></link>
 </head>
 <body>
-<header>
-    <h1>PHP  tuunitööd</h1>
-</header>
+    <?php
+    // täis
+    include("header.php");
+    ?>
+
     <?php
     include("nav.php");
     ?>
