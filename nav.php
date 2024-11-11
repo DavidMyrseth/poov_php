@@ -13,7 +13,10 @@
                 <a href="?leht=ajaFunktsioonid.php">AjaFunktsioonid</a>
             </li>
             <li>
-                <a href="?leht=.php">AjaFunktsioonid</a>
+                <a href="?leht=Pildid.php">Pildid</a>
+            </li>
+            <li>
+                <a href="?leht=masiiviid.php">Masiiviid</a>
             </li>
         </ul>
     </nav>
