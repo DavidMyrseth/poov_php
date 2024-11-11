@@ -1,7 +1,7 @@
 <h1>
     PHP – Töö pildifailidega
 </h1>
-<fieldset>
+<div>
     <legend><h2><a href="https://www.metshein.com/unit/php-pildifailidega-ulesanne-14/">Töö pildifailidega</a></h2></legend>
     <form method="post" action="">
         <select name="pildid">
@@ -62,4 +62,4 @@
     echo "Kõrgus: $pisi_korgus<br>";
     echo "<br><img width='$pisi_laius' src='$pildi_aadress'><br>";
     ?>
-</fieldset>
+</div>
