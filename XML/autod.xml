@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<autod>
+    <auto>
+        <mark>Mazda</mark>
+        <autonumber>123ABC</autonumber>
+        <omanik>Kask</omanik>
+        <v_aasta>2020</v_aasta>
+    </auto>
+    <auto>
+        <mark>BMW</mark>
+        <autonumber>170AQC</autonumber>
+        <omanik>Lennuk</omanik>
+        <v_aasta>2018</v_aasta>
+    </auto>
+    <auto>
+        <mark>Audi</mark>
+        <autonumber>593EBR</autonumber>
+        <omanik>Viblyy</omanik>
+        <v_aasta>2022</v_aasta>
+    </auto>
+    <auto>
+        <mark>Mercedes</mark>
+        <autonumber>407KBY</autonumber>
+        <omanik>Tugesera</omanik>
+        <v_aasta>2023</v_aasta>
+    </auto>
+    <auto>
+        <mark>Ford-Mustang</mark>
+        <autonumber>723WBA</autonumber>
+        <omanik>Myrseth</omanik>
+        <v_aasta>2021</v_aasta>
+    </auto>
+</autod>
