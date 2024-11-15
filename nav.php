@@ -18,5 +18,11 @@
             <li>
                 <a href="?leht=masiiviid.php">Masiiviid</a>
             </li>
+            <li>
+                <a href="?XML/autod_xml_filest.php" target="_blank">XML Autod</a>
+            </li>
+            <li>
+                <a href="?XML/students.php" target="_blank">Work XML</a>
+            </li>
         </ul>
     </nav>
