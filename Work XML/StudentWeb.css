@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+.students-list {
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table th, table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.student-name {
+    display: inline-block; /* Обеспечиваем блоковый элемент для рамки */
+    padding: 10px 20px; /* Отступы внутри рамки */
+    background-color: #f9f9f9;
+    border: 2px solid #007bff; /* Цвет и толщина рамки */
+    border-radius: 8px; /* Скругление углов */
+    color: #007bff;
+    text-decoration: none;
+    cursor: pointer;
+    margin: 5px;
+    transition: all 0.3s ease;
+}
+
+.student-name:hover {
+    background-color: #e9f7ff; /* Легкое изменение фона при наведении */
+    border-color: #0056b3; /* Темный цвет рамки при наведении */
+    color: #0056b3; /* Цвет текста при наведении */
+}
+
+form {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+form input[type="text"], form input[type="url"] {
+    padding: 8px;
+    margin: 5px 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+form input[type="submit"] {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+form input[type="submit"]:hover {
+    background-color: #218838;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #0056b3;
+}

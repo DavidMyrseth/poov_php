@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <name>Valeria Allik</name>
+        <website>https://ValeriaAllik23.thkit.ee</website>
+        <gender>Female</gender>
+        <age>18</age>
+        <group>TARpv23</group>
+        <hairColor>Blonde</hairColor>
+    </student>
+    <student>
+        <name>Martin Sild</name>
+        <website>https://MartinSild23.thkit.ee</website>
+        <gender>Male</gender>
+        <age>18</age>
+        <group>TARpv23</group>
+        <hairColor>Brown</hairColor>
+    </student>
+    <student>
+        <name>Kirill Sats</name>
+        <website>https://KirillSats23.thkit.ee</website>
+        <gender>Male</gender>
+        <age>18</age>
+        <group>TARpv23</group>
+        <hairColor>Black</hairColor>
+    </student>
+    <student>
+        <name>David Lennuk</name>
+        <website>https://DavidLennuk23.thkit.ee</website>
+        <gender>Male</gender>
+        <age>18</age>
+        <group>TARpv23</group>
+        <hairColor>Brown</hairColor>
+    </student>
+    <student>
+        <name>Marija Gorbunova</name>
+        <website>https://MarijaGorbunova23.thkit.ee</website>
+        <gender>Female</gender>
+        <age>18</age>
+        <group>TARpv23</group>
+        <hairColor>Red</hairColor>
+    </student>
+    <student>
+        <name>Roman Sandakov</name>
+        <website>https://RomanSandakov23.thkit.ee</website>
+        <gender>Male</gender>
+        <age>18</age>
+        <group>TARpv23</group>
+        <hairColor>Blonde</hairColor>
+    </student>
+    <student>
+        <name>Aleksandra Semjonova</name>
+        <website>https://AleksandraSemjonova23.thkit.ee</website>
+        <gender>Female</gender>
+        <age>18</age>
+        <group>TARpv23</group>
+        <hairColor>Brown</hairColor>
+    </student>
+    <student>
+        <name>Vsevolod Tsarev</name>
+        <website>https://VsevolodTsarev23.thkit.ee</website>
+        <gender>Male</gender>
+        <age>18</age>
+        <group>TARpv23</group>
+        <hairColor>Black</hairColor>
+    </student>
+    <student>
+        <name>Daria Halchenko</name>
+        <website>https://DariaHalchenko23.thkit.ee</website>
+        <gender>Female</gender>
+        <age>18</age>
+        <group>TARpv23</group>
+        <hairColor>Brown</hairColor>
+    </student>
+    <student>
+        <name>Bogdan Viblyy</name>
+        <website>https://BogdanViblyy23.thkit.ee</website>
+        <gender>Male</gender>
+        <age>18</age>
+        <group>TARpv23</group>
+        <hairColor>Blonde</hairColor>
+    </student>
+    <student>
+        <name>Jelizaveta Ostapjuk</name>
+        <website>https://JelizavetaOstapjuk23.thkit.ee</website>
+        <gender>Female</gender>
+        <age>18</age>
+        <group>TARpv23</group>
+        <hairColor>Green</hairColor>
+    </student>
+    <student>
+        <name>Anton Ivanov</name>
+        <website>https://AntonIvanov23.thkit.ee</website>
+        <gender>Male</gender>
+        <age>18</age>
+        <group>TARpv23</group>
+        <hairColor>Black</hairColor>
+    </student>
+    <student>
+        <name>Timur Basirov</name>
+        <website>https://TimurBaširov23.thkit.ee</website>
+        <gender>Male</gender>
+        <age>18</age>
+        <group>TARpv23</group>
+        <hairColor>Brown</hairColor>
+    </student>
+    <student>
+        <name>Erik Gerega</name>
+        <website>https://ErikGerega23.thkit.ee</website>
+        <gender>Male</gender>
+        <age>18</age>
+        <group>TARpv23</group>
+        <hairColor>Blonde</hairColor>
+    </student>
+    <student>
+        <name>Vladislav Kudriashev</name>
+        <website>https://VladislavKudriashev23.thkit.ee</website>
+        <gender>Male</gender>
+        <age>18</age>
+        <group>TARpv23</group>
+        <hairColor>Black</hairColor>
+    </student>
+    <student>
+        <name>Aleksander Milisenko</name>
+        <website>https://AleksanderMilišenko23.thkit.ee</website>
+        <gender>Male</gender>
+        <age>18</age>
+        <group>TARpv23</group>
+        <hairColor>Brown</hairColor>
+    </student>
+    <student>
+        <name>David Myrseth</name>
+        <website>https://DavidMyrseth23.thkit.ee</website>
+        <gender>Male</gender>
+        <age>18</age>
+        <group>TARpv23</group>
+        <hairColor>Blonde</hairColor>
+    </student>
+    <student>
+        <name>Bogdan Sergachev</name>
+        <website>https://BogdanSergachev23.thkit.ee</website>
+        <gender>Male</gender>
+        <age>18</age>
+        <group>TARpv23</group>
+        <hairColor>Red</hairColor>
+    </student>
+    <student>
+        <name>Gleb Sotsjov</name>
+        <website>https://GlebSõtšjov23.thkit.ee</website>
+        <gender>Male</gender>
+        <age>18</age>
+        <group>TARpv23</group>
+        <hairColor>Blonde</hairColor>
+    </student>
+    <student>
+        <name>Aleksandr Nadvornoi</name>
+        <website>https://AleksandrNadvornõi23.thkit.ee</website>
+        <gender>Male</gender>
+        <age>18</age>
+        <group>TARpv23</group>
+        <hairColor>Brown</hairColor>
+    </student>
+</students>
